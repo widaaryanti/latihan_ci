@@ -4,7 +4,7 @@
 </head>
 <body>
     <p>Latihan pertama saya belajar framework CodeIgniter</p>
-    <p>Framework sangat mudah dipelajari</p>
+    <p>Framework sangatt mudah dipelajari</p>
 
 </body>
 </hmtl>
